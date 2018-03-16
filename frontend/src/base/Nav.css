@@ -1,0 +1,24 @@
+.brands{
+    padding: 3px;
+}
+.profile_info{
+    text-align: right;
+    float: left;
+    display: flex;
+    flex-flow: row nowrap;;        
+}
+.brand{
+    float:left;
+    
+}
+.navdiv{
+    display: flex;
+    flex-flow: row nowrap;;
+}
+.top_p{
+    margin: 0 auto;
+    padding:12px;
+    max-width: 90px;
+}
+
+
