@@ -15,7 +15,7 @@ django-node==4.0.0
 django-social-auth==0.7.28
 django-webpack==3.1.1
 django-webpack-loader==0.6.0
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 enum34==1.1.6
 functools32==3.2.3.post2
